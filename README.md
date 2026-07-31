@@ -81,3 +81,10 @@ cargo run --release -- verify --proof proof.json --claim claim.json
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+## 🌐 Portfolio & Conceptual Overview
+
+For a conceptual overview of the products in my portfolio, visit [www.nicholasmacaskill.com](https://www.nicholasmacaskill.com).
+
